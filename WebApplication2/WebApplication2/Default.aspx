@@ -13,7 +13,7 @@
             <h2>Getting started</h2>
             <p>
                 ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-                quite quite.  Jolly good show mate.  Thar be more changes matey.
+                quite quite.  Jolly good show mate.  Thar be more changes matey.  even more changes mate
             A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
             </p>
             <p>
@@ -32,7 +32,7 @@
         <div class="col-md-4">
             <h2>Go to outer space</h2>
             <p>
-                Nasa makes it easy to go to space.  because space space space space.
+                Nasa makes it easy to go to space.  because space space.
             </p>
             <p>
                 <a class="btn btn-default" href="http://nasa.com">Learn more &raquo;</a>
@@ -41,7 +41,7 @@
         <div class="col-md-4">
             <h2>Web Hosting</h2>
             <p>
-                You can easily find a web hosting company that offers the right mix of flears and price for your applications.
+                You can easily find a web hosting company that offers the right mix of farts and price for your applications.
             </p>
             <p>
                 <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
