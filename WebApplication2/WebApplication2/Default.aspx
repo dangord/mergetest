@@ -39,6 +39,8 @@
             <h2>Go to outer space</h2>
             <p>
                 Nasa makes it easy to go to space.  because more space please more space.
+				
+				Nasa also has super duper stuff to help you out in space.
             </p>
             <p>
                 <a class="btn btn-default" href="http://nasa.com">Learn more &raquo;</a>
