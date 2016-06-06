@@ -40,7 +40,7 @@
             <p>
                 Nasa makes it easy to go to space.  because more space please more space.
 				
-				Nasa also has super duper stuff to help you out in space.
+				Nasa also has super stuff to help you out in space.
 				
 				nasa also has things.
 				
