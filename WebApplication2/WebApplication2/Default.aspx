@@ -12,6 +12,7 @@
         <div class="col-md-4">
             <h2>Getting started</h2>
             <p>
+
                 ghsdalfkj ghaf; jkgas;dig pasodf gh;asdfjkl gnsl;akdj fsklajdg lkdfj gnad fg.
             </p>
             <p>
@@ -21,6 +22,7 @@
         <div class="col-md-4">
             <h2>Get more libraries</h2>
             <p>
+
                 kl fjash gklaewr goiaern fgoiasdn fgozsjidn fglkzjsdn glkjz rg.
             </p>
             <p>
@@ -28,8 +30,18 @@
             </p>
         </div>
         <div class="col-md-4">
+            <h2>Go to outer space</h2>
+            <p>
+                Nasa makes it easy to go to space.  because space space space space space.
+            </p>
+            <p>
+                <a class="btn btn-default" href="http://nasa.com">Learn more &raquo;</a>
+            </p>
+        </div>
+        <div class="col-md-4">
             <h2>Web Hosting</h2>
             <p>
+
                 NROENOF IEJAPFOJSD HLSUKHD GOPIUSHA DOFUI EJFOPISUEFPOUISHDFPOUISE FPOJS NFLKSJD F:
             </p>
             <p>
