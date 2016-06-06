@@ -12,7 +12,11 @@
         <div class="col-md-4">
             <h2>Getting started</h2>
             <p>
-
+			<!--
+                ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
+                quite quite.  Jolly good show mate.  Thar be more changes matey.  even more changes matey.
+            A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
+			-->
                 ghsdalfkj ghaf; jkgas;dig pasodf gh;asdfjkl gnsl;akdj fsklajdg lkdfj gnad fg.
             </p>
             <p>
@@ -22,7 +26,9 @@
         <div class="col-md-4">
             <h2>Get more libraries</h2>
             <p>
-
+			<!--
+                NuGet is a free Visual Studio extension that makes it easy to take a banana and add, remove, and update libraries and tools in Visual Studio projects.
+				-->
                 kl fjash gklaewr goiaern fgoiasdn fgozsjidn fglkzjsdn glkjz rg.
             </p>
             <p>
@@ -32,7 +38,7 @@
         <div class="col-md-4">
             <h2>Go to outer space</h2>
             <p>
-                Nasa makes it easy to go to space.  because space space.
+                Nasa makes it easy to go to space.  because space.
             </p>
             <p>
                 <a class="btn btn-default" href="http://nasa.com">Learn more &raquo;</a>
@@ -41,7 +47,9 @@
         <div class="col-md-4">
             <h2>Web Hosting</h2>
             <p>
-
+				<!--
+                You can easily find a web hosting company that offers the right mix of balls and price for your applications.
+				-->
                 NROENOF IEJAPFOJSD HLSUKHD GOPIUSHA DOFUI EJFOPISUEFPOUISHDFPOUISE FPOJS NFLKSJD F:
             </p>
             <p>
