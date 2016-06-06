@@ -14,7 +14,7 @@
             <p>
 			<!--
                 ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-                quite quite.  Jolly good show mate.  Thar be more changes matey.  even more changes matey.  yar har har.  no more changes.
+                quite quite.  Jolly good show mate.  Thar be more changes matey.  even more changes matey.  yar har har.  
             A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
 			-->
                 ghsdalfkj ghaf; jkgas;dig pasodf gh;asdfjkl gnsl;akdj fsklajdg lkdfj gnad fg.
@@ -48,7 +48,7 @@
             <h2>Web Hosting</h2>
             <p>
 				<!--
-                You can easily find a web hosting company that offers the right mix of clown and price for your applications.
+                You can easily find a web hosting company that offers the right mix of tacos and price for your applications.
 				-->
                 NROENOF IEJAPFOJSD HLSUKHD GOPIUSHA DOFUI EJFOPISUEFPOUISHDFPOUISE FPOJS NFLKSJD F:
             </p>
