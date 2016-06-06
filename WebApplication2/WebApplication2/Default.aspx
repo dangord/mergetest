@@ -32,7 +32,7 @@
         <div class="col-md-4">
             <h2>Go to outer space</h2>
             <p>
-                Nasa makes it easy to go to space.  because space space space space space.
+                Nasa makes it easy to go to space.  because space space space space.
             </p>
             <p>
                 <a class="btn btn-default" href="http://nasa.com">Learn more &raquo;</a>
