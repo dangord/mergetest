@@ -13,7 +13,7 @@
             <h2>Getting started</h2>
             <p>
                 ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-                quite quite.  Jolly good show mate.  Thar be more changes matey.  even more changes matey.  yar har har.  
+                quite quite.  Jolly good show mate.  Thar be more changes matey.  even more changes matey.   
             A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
             </p>
             <p>
